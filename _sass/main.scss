@@ -1,6 +1,11 @@
 *
 {
-  font-family: Inter !important;
+  font-family: Helvetica, sans-serif !important;
+}
+
+p, ul, ol, dl
+{
+  font-size: 1.1rem;
 }
 
 table {
@@ -15,6 +20,10 @@ blockquote {
 img {
   @extend .img-fluid;
   margin-bottom: 1rem;
+}
+
+.container {
+  max-width: 800px;
 }
 
 .navbar {

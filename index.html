@@ -5,7 +5,7 @@ layout: default
 <div class="archive">
   {% for post in site.posts %} {% assign currDate = post.date | date: "%Y" %} {%
   if currDate != date %}
-  <h1 class="archive-year">{{ currDate }}</h1>
+  <h1 class="archive-year"><strong>{{currDate}}</strong></h1>
   {% assign date = currDate %} {% endif %}
   <div class="archive-item">
     <span class="post-date archive-date fs-4"
