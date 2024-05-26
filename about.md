@@ -12,7 +12,7 @@ Interests:
 	- particularly OS ricing, strangely
 - Linguistics and languages
 	- Etymology
-	- Current language interest: latin
+	- Current language interest: Latin
 - History
 - Classics
 - Typography
