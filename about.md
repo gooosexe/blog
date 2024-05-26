@@ -1,12 +1,9 @@
 ---
 layout: page
-title: About
+title: about me
 permalink: /about/
 ---
-# about me
-Name: Oliver (he/him)
-
-Ethnicity: Chinese
+My name is Oliver. I'm Chinese-Canadian, 2nd generation.
 
 Interests:
 - Physics
