@@ -3,13 +3,30 @@ layout: page
 title: About
 permalink: /about/
 ---
+# about me
+Name: Oliver (he/him)
 
-Some information about you!
+Ethnicity: Chinese
 
-### More Information
+Interests:
+- Physics
+	- of the astro (from ancient greek *ᾰ̓στρον* (ástron), meaning a celestial body!) and quantum (from latin *quantus*, meaning how much/many!) sort
+- Computers
+	- particularly OS ricing, strangely
+- Linguistics and languages
+	- Etymology
+	- Current language interest: latin
+- History
+- Classics
+- Typography
+- Fountain pens
+- Looking at really old things in general, actually 
 
-A place to include any other types of information that you'd like to include about yourself.
+
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Email: [ohuang4131@domain.com](mailto:ohuang4131@gmail.com)
+
+Discord: gooose_exe
