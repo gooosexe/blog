@@ -1,7 +1,7 @@
-—
+---
 layout: post
 title: the stormlight archive review
-—
+---
 (yeah yeah i know said that i would blog once per week or so but life gets in the way of things)
 
 *a lazy review of the stormlight archive by brandon sanderson*
