@@ -1,6 +1,6 @@
 ---
 layout: post
-title: the stormlight archive review
+title: the stormlight archive review (lazy)
 ---
 (Yeah, yeah, I know I said that I would blog once per week or so, but life gets in the way of things.)
 
