@@ -2,8 +2,14 @@
 layout: default
 ---
 
+<!--for mathjax rendering -->
+<script
+    src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    type="text/javascript"
+></script>
+
 <div class="post">
-  <h1><strong>{{ page.title }}</strong></h1>
-  <span class="fs-4 text-muted">{{ page.date | date: "%m %d %Y" }}</span>
-  <div class="mt-4">{{ content }}</div>
+    <h1><strong>{{ page.title }}</strong></h1>
+    <span class="fs-4 text-muted">{{ page.date | date: "%m %d %Y" }}</span>
+    <div class="mt-4">{{ content }}</div>
 </div>
