@@ -23,8 +23,3 @@ I’ll be going to U of T in September, studying the Physical and Mathematical S
 Like a raging river, life won’t always go the way we want it to. The current is filled with unexpected changes, ready to whisk us away from plans we’ve laid for ourselves. Sometimes, it’s better to let the river take us away. We exist for a brief moment in time, and I find that swimming against currents isn’t the most enjoyable way to spend my moment.
 
 Oliver
-
-honestly, i thought i knew exactly what i wanted to do.
-sitting in my bedroom that day at 13, i had an epiphany. i was going to ditch my 8-year-old aspirations of being an astronomer to become a software engineer. over time, the vision became incredibly clear to me. i would nestle myself in silicon valley, make enough money to drown myself in bills, and live the rest of my life in beautiful california.
-
-so i worked. i researched and studied about working in tech. i learned to code, concept after concept and language after language. even as i hit walls and roadblocks and speedbumps and potholes, it was still clear. i *would* become a software engineer.
